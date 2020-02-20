@@ -3,7 +3,7 @@
         "id": 1,
         "title": "UML Use Case",
         "description": "Диаграмма прецедента",
-        "preview": "img/LABA1.jpg"
+        "preview": "img/LABA1.png"
     },
     {
         "id": 2,
@@ -39,6 +39,6 @@
         "id": 7,
         "title": "План",
         "description": "План",
-        "preview": "img/PLAN.png"
+        "preview": "img/PLAN.jpg"
     }
 ]
