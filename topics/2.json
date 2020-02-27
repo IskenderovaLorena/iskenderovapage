@@ -1,6 +1,9 @@
 {
     "title": "UML Class",
     "items": [
-        
+        {
+            "type": "image",
+            "data": "img/2Лаба.jpg"
+        }
     ]
 }
